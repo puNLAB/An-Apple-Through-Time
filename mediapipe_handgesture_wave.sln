@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mediapipe_handgesture_wave", "mediapipe_handgesture_wave.pyproj", "{9F86ED21-C403-4E8B-9291-F49B273A3602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F86ED21-C403-4E8B-9291-F49B273A3602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F86ED21-C403-4E8B-9291-F49B273A3602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7700B57-B98D-489A-B3BD-EAFE742B538D}
+	EndGlobalSection
+EndGlobal
